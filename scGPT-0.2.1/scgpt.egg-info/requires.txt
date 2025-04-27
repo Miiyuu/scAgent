@@ -1,0 +1,14 @@
+cell-gears<0.0.3
+datasets<3.0.0,>=2.3.0
+leidenalg>=0.8.10
+numba>=0.55.1
+orbax<0.1.8
+pandas>=1.3.5
+scanpy<2.0.0,>=1.9.1
+scib<2.0.0,>=1.0.3
+scikit-misc>=0.1.4
+scvi-tools<1.0,>=0.16.0
+torch<2.2,>=1.13.0
+torchtext
+typing-extensions<5.0.0,>=4.2.0
+umap-learn>=0.5.3
