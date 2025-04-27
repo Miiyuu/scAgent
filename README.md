@@ -6,7 +6,8 @@ Universal Cell Type Annotation via a Large Language Model (LLM)
 
 Model checkpoints and required data files can be downloaded from Zenodo:
 
-- Zenodo DOI: [10.5281/zenodo.15290859](https://zenodo.org/record/15290859) (Miiyuu/scAgent: Universal Cell Type Annotation via a LLM)
+- Pretrained models and test data: [10.5281/zenodo.15290859](https://zenodo.org/records/15290859)
+- LoRA models of CG dataset: [10.5281/zenodo.15253466](https://zenodo.org/records/15253466)
 
 Note: Files and directories marked with `*` in the project structure need to be downloaded from Zenodo and placed in their corresponding directories.
 
@@ -123,8 +124,6 @@ The whole installation process will be around 20 minutes.
 ```bash
 python main.py
 ```
-
-This will generate answers to your example questions.
 
 ## License
 
